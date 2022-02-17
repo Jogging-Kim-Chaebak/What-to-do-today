@@ -14,8 +14,5 @@
 - DBMS : MariaDB
 
 ## 팀 (주주클럽)
-  * 팀장 <br>
-  [김주영](https://github.com/CodingPythonMan) [![](https://img.shields.io/badge/Github-CodingPythonMan-E34F26?style=flat-square&logo=Github)](https://github.com/CodingPythonMan)
-  
-  * 팀원 </br>
-  [김주현](https://github.com/juju123156) [![](https://img.shields.io/badge/Github-juju123156-E34F26?style=flat-square&logo=Github)](https://github.com/juju123156)</br>
+  * 팀장 : [김주영](https://github.com/CodingPythonMan) [![](https://img.shields.io/badge/Github-CodingPythonMan-E34F26?style=flat-square&logo=Github)](https://github.com/CodingPythonMan)
+  * 팀원 : [김주현](https://github.com/juju123156) [![](https://img.shields.io/badge/Github-juju123156-E34F26?style=flat-square&logo=Github)](https://github.com/juju123156)</br>
