@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 @RequestMapping("/plan")
 public class PlanController {
-	@Autowired
-	private PlanService planService;
+	//@Autowired
+	//private PlanService planService;
 	
 	// Plan짜는 페이지 
 
